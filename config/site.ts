@@ -17,9 +17,9 @@ export const siteConfig = {
     },
   ],
   links: {
-    github: "https://github.com/ajay-develops",
+    github: "https://github.com/ajay-develops/chessboard-image-to-fen",
     twitter: "https://x.com/ajay_develops",
-    docs: "https://heroui.com",
+    docs: "https://github.com/ajay-develops/chessboard-image-to-fenhttps://github.com/ajay-develops/chessboard-image-to-fen/blob/main/README.md",
     discord: "https://discord.gg/BgrPcPc89M",
     sponsor: "https://www.patreon.com/c/AjayDevelops",
   },
