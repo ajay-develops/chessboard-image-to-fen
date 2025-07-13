@@ -6,7 +6,7 @@ export const siteConfig = {
     "Convert chessboard images to fen code using machine learning tools - MobileNet v3 and yolo. Remake by Ajay Develops",
   navItems: [
     {
-      label: "Train Piece Recognition Model",
+      label: "Training 🏋 Model 🏃‍♀️",
       href: "/train-piece-recognition-model",
     },
   ],
